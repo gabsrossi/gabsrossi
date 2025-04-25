@@ -10,7 +10,7 @@ Oie! Eu sou a Gabriele/Gabs!
 
 🚀 Minhas Skills (nível básico)
 
-       ✻ 💻 HTML, CSS, JavaScript, C, Java, MsQL, PHP
+       ✻ 💻 HTML, CSS, JavaScript, C, Java, MsQL, PHP, Swift
 
 🌐 Onde me encontrar
 
