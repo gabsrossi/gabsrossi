@@ -1,16 +1,13 @@
-## Hi there 👋
+Oie! Eu sou a Gabriele/Gabs!
 
-<!--
-**gabsrossi/gabsrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✮ Estudante de Matemática Aplicada e Computação Científica na USP São Carlos.  
+✮ Formada em Informática pelo IFSULDEMINAS - Campus Poços de Caldas (de onde venho). 
+✮ Amo matemática e tecnologia, pretendo seguir numa área de pesquisa que envolva ambos. 
+✮ Acesse o time no meu perfil para ver meus projetos para o curso Negócios em TIC do IFCE.
 
-Here are some ideas to get you started:
+🚀 Minhas Skills (nível básico)
+✻ 💻 HTML, CSS, JavaScript, C, Java, MsQL, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Onde me encontrar
+✿ [LinkedIn](https://www.linkedin.com/in/gabrielejamarim)
+✿ [E-mail] (gabrielejamarim@hotmail.com) ou (gabrielejamarim@usp.br)
