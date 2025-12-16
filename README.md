@@ -16,4 +16,4 @@ Oie! Eu sou a Gabriele/Gabs!
 
      ✿ [LinkedIn](https://www.linkedin.com/in/gabrielejamarim)
 
-     ✿ [E-mail] (gabrielejamarim@hotmail.com) ou (gabrielejamarim@usp.br)
+     ✿ [E-mail] (gabrielejamarim@gmail.com) ou (gabrielejamarim@usp.br)
