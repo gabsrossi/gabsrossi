@@ -8,7 +8,7 @@ Oie! Eu sou a Gabriele/Gabs!
   
      ✮ Acesse o time no meu perfil para ver meus projetos para o curso Negócios em TIC do IFCE.
 
-🚀 Minhas Skills (nível básico)
+🚀 Minhas Skills (nível técnico)
 
        ✻ 💻 HTML, CSS, JavaScript, C, Java, MsQL, PHP, Swift
 
