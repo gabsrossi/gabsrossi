@@ -4,7 +4,7 @@ Oie! Eu sou a Gabriele/Gabs!
   
      ✮ Formada em Informática pelo IFSULDEMINAS - Campus Poços de Caldas (de onde venho).
   
-     ✮ Amo matemática e tecnologia, pretendo seguir numa área de pesquisa que envolva ambos. 
+     ✮ Amo matemática e tecnologia, pretendo seguir numa área de pesquisa que envolva ambos (A matemática aplicada!). 
   
      ✮ Acesse o time no meu perfil para ver meus projetos para o curso Negócios em TIC do IFCE.
 
